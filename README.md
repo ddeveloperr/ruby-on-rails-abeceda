@@ -1,17 +1,18 @@
-# Ruby on rails abeceda!
+# Ruby on rails ABECEDA!
 
 
 My FAVORITE BOOKS/GUIDES:
-------------------
+-------------------------
 
-*[Agile Web Development with Rails 4](https://pragprog.com/book/rails4/agile-web-development-with-rails-4)
-*[Rails Crash Course by Anthone Lewis](http://www.amazon.com/Rails-Crash-Course-No-Nonsense-Development/dp/1593275722/ref=sr_1_1?s=books&ie=UTF8&qid=1459021284&sr=1-1&keywords=Rails+Crash+Course)
-*[Michael Hartl Rails Tutorial ScreenCasts/book](https://www.railstutorial.org/book)
-*[The Rails 4 Way by Obie Fernandez, Kevin Faustino](http://www.amazon.com/Rails-Edition-Addison-Wesley-Professional-Ruby/dp/0321944275)
-*[Rails 4 In Action by Ryan Bigg](http://www.amazon.com/Rails-Action-Revised/dp/1617291099/ref=sr_1_1?s=books&ie=UTF8&qid=1459021353&sr=1-1&keywords=Rails+4+In+Action+by+Ryan+Bigg)
-*[The Complete Web Developer Bootcamp](https://www.udemy.com/job-ready-web-developer/)
-*[The RSpec Book](http://www.amazon.com/RSpec-Book-Behaviour-Development-Cucumber/dp/1934356379/ref=sr_1_1?ie=UTF8&qid=1459022027&sr=8-1&keywords=rspec)
-
+###[Agile Web Development with Rails 4](https://pragprog.com/book/rails4/agile-web-development-with-rails-4)
+###[Rails Crash Course by Anthone Lewis](http://www.amazon.com/Rails-Crash-Course-No-Nonsense-Development/dp/1593275722/ref=sr_1_1?s=books&ie=UTF8&qid=1459021284&sr=1-1&keywords=Rails+Crash+Course)
+###[Michael Hartl Rails Tutorial ScreenCasts/book](https://www.railstutorial.org/book)
+###[The Rails 4 Way by Obie Fernandez, Kevin Faustino](http://www.amazon.com/Rails-Edition-Addison-Wesley-Professional-Ruby/dp/0321944275)
+###[Rails 4 In Action by Ryan Bigg](http://www.amazon.com/Rails-Action-Revised/dp/1617291099/ref=sr_1_1?s=books&ie=UTF8&qid=1459021353&sr=1-1&keywords=Rails+4+In+Action+by+Ryan+Bigg)
+###[The Complete Web Developer Bootcamp](https://www.udemy.com/job-ready-web-developer/)
+###[The RSpec Book](http://www.amazon.com/RSpec-Book-Behaviour-Development-Cucumber/dp/1934356379/ref=sr_1_1?ie=UTF8&qid=1459022027&sr=8-1&keywords=rspec)
+###[GO Rails - Advanced Rails videos..](https://gorails.com/)
+###[Upcase - Advanced online course](https://upcase.com)
 
 RESOURCES:
 ----------
@@ -19,18 +20,18 @@ RESOURCES:
 http://www.tutorialspoint.com/ruby-on-rails/rails-quick-guide.htm
 http://guides.rubyonrails.org/getting_started.html
 http://api.rubyonrails.org
-guides.railsgirls.com
-railscasts, gorails, baserails
-ruby-doc.org
-rubydoc.info
-programmableweb.com/apis	- 12,000 api’s for everything
+http://guides.railsgirls.com
+http://ruby-doc.org
+http://rubydoc.info
+http://programmableweb.com/apis	- 12,000 api’s for everything
 http://www.bootstraphero.com/the-big-badass-list-of-twitter-bootstrap-resources/
-startbootstrap.com - Free Bootstrap Themes & Templates
-mailchimp.com - Email service
-getstream.io	//news feeds, activity feeds, activity streams
-Docker or Vagrant for development deployments using puppet/chef (Search it!)
-Capistrano deployment to AWS (Search it!)
-moltin.com,  shopify.com  //ecommerce platform (Search it!)
+http://startbootstrap.com - Free Bootstrap Themes & Templates
+http://mailchimp.com - Email service
+http://getstream.io	//news feeds, activity feeds, activity streams
+
+#### Docker or Vagrant for development deployments using puppet/chef (Search it!)
+#### Capistrano deployment to AWS (Search it!)
+#### moltin.com,  shopify.com  //ecommerce platform (Search it!)
 
 __________________________________________________________________________________________
 
