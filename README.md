@@ -18,16 +18,27 @@ RESOURCES:
 ----------
 
 http://www.tutorialspoint.com/ruby-on-rails/rails-quick-guide.htm
+
 http://guides.rubyonrails.org/getting_started.html
+
 http://api.rubyonrails.org
+
 http://guides.railsgirls.com
+
 http://ruby-doc.org
+
 http://rubydoc.info
+
 http://programmableweb.com/apis	
+
 http://www.bootstraphero.com/the-big-badass-list-of-twitter-bootstrap-resources/
-http://startbootstrap.com 
-http://mailchimp.com - Email service
+
+http://startbootstrap.com
+
+http://mailchimp.com
+
 http://getstream.io
+
 
 #### Docker or Vagrant for development deployments using puppet/chef (Search it!)
 #### Capistrano deployment to AWS (Search it!)
