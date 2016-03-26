@@ -1,6 +1,6 @@
 # Ruby on rails ABECEDA!
 
-:fire::fire::fire:  :zzz::zzz::zzz:
+:fire::fire::fire:  :zzz::zzz::zzz: :honeybee::honeybee::honeybee:
 ROR Community FAVORITE BOOKS/GUIDES:
 ------------------------------------
 
