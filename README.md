@@ -7,8 +7,16 @@ ROR Community FAVORITE BOOKS/GUIDES:
 | Number        | Description / Link | Images |
 | ------------- |:-------------:| -----:|
 | 1.|[Agile Web Development with Rails 4](https://pragprog.com/book/rails4/agile-web-development-with-rails-4)|       |
+| 2.| [Rails Crash Course by Anthone Lewis](http://www.amazon.com/Rails-Crash-Course-No-Nonsense-Development/dp/1593275722/ref=sr_1_1?s=books&ie=UTF8&qid=1459021284&sr=1-1&keywords=Rails+Crash+Course)|       |
+| 3.|[Michael Hartl Rails Tutorial ScreenCasts/book](https://www.railstutorial.org/book)|       |
+| 4.|[[The Rails 4 Way by Obie Fernandez, Kevin Faustino](http://www.amazon.com/Rails-Edition-Addison-Wesley-Professional-Ruby/dp/0321944275)|       |
+| 5.|[Rails 4 In Action by Ryan Bigg](http://www.amazon.com/Rails-Action-Revised/dp/1617291099/ref=sr_1_1?s=books&ie=UTF8&qid=1459021353&sr=1-1&keywords=Rails+4+In+Action+by+Ryan+Bigg)|       |
+| 6.|[The Complete Web Developer Bootcamp](https://www.udemy.com/job-ready-web-developer/)|       |
+| 7.|[The RSpec Book](http://www.amazon.com/RSpec-Book-Behaviour-Development-Cucumber/dp/1934356379/ref=sr_1_1?ie=UTF8&qid=1459022027&sr=8-1&keywords=rspec)|       |
+| 8.|[GO Rails - Advanced Rails videos..](https://gorails.com/)|       |
+| 8.|[Upcase - Advanced online course](https://upcase.com)|       |
 
-|1| [Agile Web Development with Rails 4](https://pragprog.com/book/rails4/agile-web-development-with-rails-4) |2| [Rails Crash Course by Anthone Lewis](http://www.amazon.com/Rails-Crash-Course-No-Nonsense-Development/dp/1593275722/ref=sr_1_1?s=books&ie=UTF8&qid=1459021284&sr=1-1&keywords=Rails+Crash+Course) |3| [Michael Hartl Rails Tutorial ScreenCasts/book](https://www.railstutorial.org/book) |4| [The Rails 4 Way by Obie Fernandez, Kevin Faustino](http://www.amazon.com/Rails-Edition-Addison-Wesley-Professional-Ruby/dp/0321944275) |5| [Rails 4 In Action by Ryan Bigg](http://www.amazon.com/Rails-Action-Revised/dp/1617291099/ref=sr_1_1?s=books&ie=UTF8&qid=1459021353&sr=1-1&keywords=Rails+4+In+Action+by+Ryan+Bigg) |6| [The Complete Web Developer Bootcamp](https://www.udemy.com/job-ready-web-developer/) |7| [The RSpec Book](http://www.amazon.com/RSpec-Book-Behaviour-Development-Cucumber/dp/1934356379/ref=sr_1_1?ie=UTF8&qid=1459022027&sr=8-1&keywords=rspec) |8| [GO Rails - Advanced Rails videos..](https://gorails.com/) || [Upcase - Advanced online course](https://upcase.com)
+
 
 RESOURCES:
 ----------
