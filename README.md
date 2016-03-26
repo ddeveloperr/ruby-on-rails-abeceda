@@ -23,11 +23,14 @@ http://api.rubyonrails.org
 http://guides.railsgirls.com
 http://ruby-doc.org
 http://rubydoc.info
-http://programmableweb.com/apis	- 12,000 api’s for everything
+http://programmableweb.com/apis	
+- 12,000 api’s for everything
 http://www.bootstraphero.com/the-big-badass-list-of-twitter-bootstrap-resources/
-http://startbootstrap.com - Free Bootstrap Themes & Templates
+http://startbootstrap.com 
+- Free Bootstrap Themes & Templates
 http://mailchimp.com - Email service
-http://getstream.io	//news feeds, activity feeds, activity streams
+http://getstream.io
+//news feeds, activity feeds, activity streams
 
 #### Docker or Vagrant for development deployments using puppet/chef (Search it!)
 #### Capistrano deployment to AWS (Search it!)
