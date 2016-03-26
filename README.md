@@ -5,7 +5,7 @@ ROR Community FAVORITE BOOKS/GUIDES:
 ------------------------------------
 
 | Number        | Description / Link | Images |
-| ------------- |:-------------:| -----:|
+| ------------- |:-------------| -----:|
 | 1.|[Agile Web Development with Rails 4](https://pragprog.com/book/rails4/agile-web-development-with-rails-4)|       |
 | 2.| [Rails Crash Course by Anthone Lewis](http://www.amazon.com/Rails-Crash-Course-No-Nonsense-Development/dp/1593275722/ref=sr_1_1?s=books&ie=UTF8&qid=1459021284&sr=1-1&keywords=Rails+Crash+Course)|       |
 | 3.|[Michael Hartl Rails Tutorial ScreenCasts/book](https://www.railstutorial.org/book)|       |
